@@ -1,4 +1,4 @@
-#Here is a simple Python Honeypot that logs attempted logins to a file. 
+# Here is a simple Python Honeypot that logs attempted logins to a file. 
 #This is for educational purposes only and should not be used in a production environment without proper security measures.
 #This Honeypot listens for incoming connections on port 22 (SSH).
 #When a connection is made, it receives the data, logs the attempt to a file called honeypot.log, and then closes the connection.
